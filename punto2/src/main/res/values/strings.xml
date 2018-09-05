@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Punto2</string>
+    <string name="formulario">Formulario</string>
+    <string name="name">Nombre</string>
+    <string name="password">Password</string>
+    <string name="repPassword">Repita Password</string>
+    <string name="correo">Correo</string>
+    <string name="guardar">Guardar</string>
+    <string name="resultado">Resultado</string>
+    <string name="masculino">Masculino</string>
+    <string name="femenino">Femenino</string>
+    <string name="musica">Musica</string>
+    <string name="Futbol">Futbol</string>
+    <string name="Leer">Leer</string>
+    <string name="Pescar">Pescar</string>
+    <string-array name="Ciudades">
+        <item>Bogota</item>
+        <item>Cali</item>
+        <item>Barranquilla</item>
+        <item>Ibague</item>
+        <item>Medellin</item>
+    </string-array>
+</resources>

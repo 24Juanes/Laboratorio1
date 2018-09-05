@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Laboratorio1</string>
+    <string name="Cambio">Cambio</string>
+    <string name="cam">Cambio</string>
+    <string name="nombre">Valor Cambio</string>
+    <string-array name="Monedas">
+        <item>Dolares</item>
+        <item>Euros</item>
+        <item>Libras</item>
+    </string-array>
+</resources>
